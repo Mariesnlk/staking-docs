@@ -1,1 +1,171 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T11:36:59.387Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="6gaVG-rzhwfTYF6QYkuP" version="20.8.1" type="github"><diagram id="nXCdoutsdS2Su5gVqoBQ" name="Page-1">5Vptd9osGP41nrN9sCeEvOjH1jp79mxPu7mddp92MEFlTYIjpJr++oEhRkK03ebLavuhhQtC4b5yXXCjLdiLFwOGZtOPNMRRy7bCRQtetmzbt6H4LYG8ALolMGEkLCCrAobkERcgKNGMhDhVWAFxSiNOZjoY0CTBAdcwxBid693GNAo1YIYmWJuGBIYBirDR7ZaEfFqgHduv8CtMJtPyPwOvW7TEqOysBk6nKKTzNQj2W7DHKOVFKV70cCRjp8fl3YbW1cQYTvhzHshBvjj/eXX7nQwRYtb17WD2ru2pufG8XDAOxfpVlTI+pROaoKhfoReMZkmI5aiWqFV9PlA6EyAQ4A/Mea7IRBmnApryOFKteEH4nXpclr/J8pmrapeLtabLXFXM1aoApDRjgZr7+Go++NTO3ffB5bdrmFLy4+6/tuon17X2oIrRANMYc5aLDgxHiJMHnXekXp/Jqt/q0RtKxFRsS73pwIdnUPz4jmVDB/puMYB67W2rsbUcniM2wVyNWHEoCmtTrKAls80sbwvBA4oytTyDdp3U+ZRwPJyhZWDnQtg6gWMSRT0aUbZ8FoYId8aBwFPO6D1ea/GCDh6Nt9H3gBnHi63EqFZYCqkMKVT1eaVLUPaZrmnSszZzqUX6d8NqG2EdcnQvgmh7KJYhS0ap/PNFBCURHd/0P/ds660RexEArgdYD2RCE1yLuoJQRCaJqAYirFjgFzKcRLjXuWqISRguRdvEqM75LihyaxQ5rkGR18AQ3AFD8//B/fevj8HPx2524X4c9NNF0ob/jr35z/G3mkn9meE5+/G3LtC4Be5hPcw5RQ8D4Nge5jZ6GEkmr8elgH04l2reR9ytNqWiuDtfqryosCaw1Zlk5QYzItYqydvOgmFgT7qVtye3qnHs1Mgr5mW4lTEQBN2aYr2D2p5n6PNrKmiovy8iuZjJYhZH5wGn6yL7gEY4uqEp4YRKsY0o5zRuUCGnNYukGY9IIgReplY7EiDwnnZBuCcTbMyCwHHPCWe6HLcfFJrkKKhg+V05rKysjSSr1VDL2t8nVUoUxcv/9K69u+Trr4y2a4jpep68dDW5/vHU1JxtHno70+TzZ7cI+74dcJ3afUD9MPHc/ejJgXa3HzVmVGArt//chdHvJlSN24O9nyOKD3XdWnBfTG5e1ctPqGwtiG3bM8xvbwlVY1ihEdbPeI5YKLBXdA+km1QbAIOVfWVYjaT4Biny2CI/ShCMpJISzlCSjjE7YVZsy9O3Dv9weW/zsdu800mXtLClYtLTpcLp1L3fPLMdlgrzHiiVd9kt24tkyEfikOxNZGmlFNG7vO5WOjpl7ZSPKMJ8+8h8bXK0lXSsN1Xx1dFzyA2n8ZhsHq6yRAmq2muW0nlRGjIYaeDt2SQBr3NckjZtPylKApneS+mMMT5dRpyOfiIAzt4YEdXqqw5FClN9XwT2fwE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-04T11:58:39.424Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="MXWNpBncUEROXKKvAgAj" version="20.8.1" type="github">
+  <diagram id="nXCdoutsdS2Su5gVqoBQ" name="Page-1">
+    <mxGraphModel dx="723" dy="923" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y1yxAqHW_iSaar0OWGpF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fHwGQ-y5JcDYO3soijXK-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="173.3333740234375" y="203.3333740234375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fHwGQ-y5JcDYO3soijXK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="320" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fHwGQ-y5JcDYO3soijXK-2" value="Staked&amp;nbsp;Token (ERC20)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="245" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wN1k_Uzcqz9uB5MGEsxn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="fHwGQ-y5JcDYO3soijXK-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="191" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fHwGQ-y5JcDYO3soijXK-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="320" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fHwGQ-y5JcDYO3soijXK-5" value="Staking" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="125" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fHwGQ-y5JcDYO3soijXK-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="fHwGQ-y5JcDYO3soijXK-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="140" as="sourcePoint" />
+            <mxPoint x="319" y="116" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fHwGQ-y5JcDYO3soijXK-6" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y1yxAqHW_iSaar0OWGpF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fHwGQ-y5JcDYO3soijXK-9" target="fHwGQ-y5JcDYO3soijXK-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fHwGQ-y5JcDYO3soijXK-9" value="Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="570" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fHwGQ-y5JcDYO3soijXK-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="230" as="sourcePoint" />
+            <mxPoint x="545" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wN1k_Uzcqz9uB5MGEsxn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="y1yxAqHW_iSaar0OWGpF-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="173" y="103" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y1yxAqHW_iSaar0OWGpF-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="322" y="-26" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y1yxAqHW_iSaar0OWGpF-3" value="Reward Token (ERC20)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="355" y="-11" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y1yxAqHW_iSaar0OWGpF-7" value="get tokens (transfer)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="206" y="275" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y1yxAqHW_iSaar0OWGpF-14" value="set rewards" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="483" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y1yxAqHW_iSaar0OWGpF-15" value="stake&lt;br&gt;(transfer Staked tokens)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="221" y="72" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y1yxAqHW_iSaar0OWGpF-17" value="get rewards (rewards tokens)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="221" y="-11" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wN1k_Uzcqz9uB5MGEsxn-2" value="unstake (transfered Staked tokens)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="221" y="168" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wN1k_Uzcqz9uB5MGEsxn-4" value="set sanctions fee" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="486" y="148" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_vmH7tVMYnqEydsGNR4z-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_vmH7tVMYnqEydsGNR4z-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="206" y="617" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vmH7tVMYnqEydsGNR4z-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="146" y="737" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_vmH7tVMYnqEydsGNR4z-3" value="Staked&amp;nbsp;Token (ERC20)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="176" y="759" width="52" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_vmH7tVMYnqEydsGNR4z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="_vmH7tVMYnqEydsGNR4z-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="218" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vmH7tVMYnqEydsGNR4z-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="_vmH7tVMYnqEydsGNR4z-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="218" y="595" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="395" y="595" />
+              <mxPoint x="395" y="690" />
+              <mxPoint x="232" y="690" />
+              <mxPoint x="232" y="595" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vmH7tVMYnqEydsGNR4z-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="347" y="535" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_vmH7tVMYnqEydsGNR4z-6" value="STK Staking (implemented ERc20)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="377" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_vmH7tVMYnqEydsGNR4z-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_vmH7tVMYnqEydsGNR4z-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="217" y="565" as="sourcePoint" />
+            <mxPoint x="346" y="541" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vmH7tVMYnqEydsGNR4z-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="_vmH7tVMYnqEydsGNR4z-8" target="_vmH7tVMYnqEydsGNR4z-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="217" y="717" />
+              <mxPoint x="407" y="717" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vmH7tVMYnqEydsGNR4z-8" value="User 2" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="187" y="535" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_vmH7tVMYnqEydsGNR4z-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_vmH7tVMYnqEydsGNR4z-10" target="_vmH7tVMYnqEydsGNR4z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_vmH7tVMYnqEydsGNR4z-10" value="Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="597" y="535" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_vmH7tVMYnqEydsGNR4z-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="572" y="655" as="sourcePoint" />
+            <mxPoint x="572" y="655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vmH7tVMYnqEydsGNR4z-15" value="get tokens (transfer)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="137" y="660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_vmH7tVMYnqEydsGNR4z-16" value="set rewards" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="525" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_vmH7tVMYnqEydsGNR4z-17" value="stake" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="248" y="511" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_vmH7tVMYnqEydsGNR4z-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="_vmH7tVMYnqEydsGNR4z-23" target="_vmH7tVMYnqEydsGNR4z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_vmH7tVMYnqEydsGNR4z-23" value="User 1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="263" y="366" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_vmH7tVMYnqEydsGNR4z-26" value="stake for User 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="341" y="403" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_vmH7tVMYnqEydsGNR4z-28" value="get minted STK tokens" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="257" y="584" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_vmH7tVMYnqEydsGNR4z-33" value="withdraw (transfer STK tokens)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="733" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_vmH7tVMYnqEydsGNR4z-40" value="get Staked tokens" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="281" y="660" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
